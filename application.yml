@@ -1,2 +1,2 @@
-property-file.name = Hello World
-property-file.description = Describe me
+property-file.name: Hello World
+property-file.description: Describe me
